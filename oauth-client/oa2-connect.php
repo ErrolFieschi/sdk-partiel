@@ -3,6 +3,7 @@ require 'vendor/autoload.php';
 
 use GuzzleHttp\Client;
 
+
 function handleGoogleSuccess()
 {
     $client = new Client([

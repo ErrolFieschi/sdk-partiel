@@ -6,8 +6,6 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 ini_set('max_execution_time', 300);
 
-// faire une classe qui peut le faire pour n'importe quel api, url dynamique
-
 use GuzzleHttp\Client;
 
 const CLIENT_ID = "client_6070546c6aba63.16480463";

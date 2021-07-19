@@ -8,6 +8,7 @@ RUN chmod 755 /home/root
 
 ENV PORT=80
 
+
 COPY docker/docker-entrypoint.sh /usr/local/bin/docker-entrypoint
 RUN chmod +x /usr/local/bin/docker-entrypoint
 ENTRYPOINT ["docker-entrypoint"]

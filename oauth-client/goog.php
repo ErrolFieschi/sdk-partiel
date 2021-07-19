@@ -41,3 +41,5 @@ if (isset($_GET['code'])) {
 if (!isset($_SESSION['access_token'])) {
     $login_button = '<a href="' . $google_client->createAuthUrl() . '">Google connexion</a>';
 }
+
+

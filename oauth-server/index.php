@@ -118,7 +118,8 @@ function handleAuth($success)
     //echo("Location: {$redirectUrl}");
 }
 
-function handleAuthCode() {
+function handleAuthCode()
+{
     ['code' => $code, "client_id" => $clientID] = $_GET;
     // Authorization Code
     if (null === ($codeEntity = findCode(["client_id" => $clientID, "code" => $code]))) throw new RuntimeException("{$code} not exists");
