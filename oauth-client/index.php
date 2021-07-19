@@ -4,7 +4,7 @@ include "goog.php";
 require __DIR__ . '/vendor/autoload.php';
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
-ini_set('max_execution_time', 300); //300 seconds = 5 minutes. In case if your CURL is slow and is loading too much (Can be IPv6 problem)
+ini_set('max_execution_time', 300);
 
 // faire une classe qui peut le faire pour n'importe quel api, url dynamique
 
