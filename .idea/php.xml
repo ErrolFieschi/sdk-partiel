@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/oauth-client/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/oauth-client/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/oauth-client/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/oauth-client/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/oauth-client/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/oauth-client/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/oauth-client/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/oauth-client/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/oauth-client/vendor/composer" />
+      <path value="$PROJECT_DIR$/oauth-client/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/oauth-client/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/oauth-client/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/oauth-client/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/oauth-client/vendor/google/apiclient-services" />
+      <path value="$PROJECT_DIR$/oauth-client/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/oauth-client/vendor/google/apiclient" />
+      <path value="$PROJECT_DIR$/oauth-client/vendor/google/auth" />
+      <path value="$PROJECT_DIR$/oauth-client/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/oauth-client/vendor/monolog/monolog" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.4" />
+</project>
